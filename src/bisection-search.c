@@ -2,9 +2,9 @@
  ============================================================================
  Name        : bisection-search.c
  Author      : Said TALEB ALI
- Version     :
+ Version     : 1.0
  Copyright   : MIT
- Description : Hello World in C, Ansi-style
+ Description : Search for a number in a sorted list using bisection search (Binary Search).
  ============================================================================
  */
 
